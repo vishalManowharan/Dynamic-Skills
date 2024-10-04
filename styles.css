@@ -1,0 +1,10 @@
+span {
+    font-size: 25px;
+  }
+.hide-blink {
+    visibility: hidden;
+}
+.show-blink {
+    visibility: visible;
+}
+
